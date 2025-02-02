@@ -1,6 +1,6 @@
 # Heartbeat Classification using Bidirectional LSTM with Attention
 
-This repository contains the implementation of a Bidirectional LSTM model with an Attention mechanism for classifying heartbeat signals. The model is trained on the PTB Diagnostic ECG Database, which is available on Kaggle. The dataset and model are described in detail in the accompanying paper (`paper.pdf`).
+This repository contains the implementation of a Bidirectional LSTM model with an Attention mechanism for classifying heartbeat signals. The model is trained on the PTB Diagnostic ECG Database, which is available on Kaggle. The dataset is described in detail in the accompanying paper (`paper.pdf`).
 
 ## Dataset
 
@@ -62,7 +62,7 @@ The model implemented in this repository is a **Bidirectional LSTM with Attentio
    - Refer to the `Model_Summary.pdf` for a detailed overview of the model's architecture and performance.
 
 4. **Read the Paper**:
-   - The `paper.pdf` provides additional insights into the dataset, model design, and experimental results.
+   - The `paper.pdf` provides additional insights into the dataset, another model design for solve this problem, and experimental results.
 
 ## Notice
 
@@ -72,6 +72,6 @@ The model implemented in this repository is a **Bidirectional LSTM with Attentio
 
 ## Acknowledgments
 
-- The dataset is provided by Shayan Fazeli on Kaggle.
+- The dataset is provided by Shayan Fazeli, Mohammad Kachuee, Majid Sarrafzadeh on Kaggle.
 - The model implementation is based on the research and methodology described in the accompanying paper.
 
